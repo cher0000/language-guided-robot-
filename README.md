@@ -18,7 +18,7 @@
 | GIoU_F | 0.82 | 0.84 | 0.69 | [point](https://drive.google.com/file/d/1C1r1EF17KFN6sfhr0Dqy3usO2G4Iz9Jd/view?usp=drive_link) |
 | DIoU_F | 0.80 | 0.86 | 0.68 | [point](https://drive.google.com/file/d/14KW9IvdVEqWerFLTHjEHgaE1e-vLBOvm/view?usp=drive_link)|
 | CIoU_F | 0.72 | 0.80 | 0.56 | [point](https://drive.google.com/file/d/16XHdtmpVx8sD8oUANb68YySRGMVO8bIl/view?usp=drive_link)|
-| DAIoU_F | 0.87 | 0.92 | 0.76 | [point](https://drive.google.com/file/d/1ZD4C396TOaAdYJxqyGpIZn64DIee0Nf2/view?usp=drive_link)|
+| DAIoU_F | 0.87 | 0.90 | 0.80 | [point](https://drive.google.com/file/d/18nsXllg4RsMKoC2lylYJO_tuY4VWycq0/view?usp=drive_link)|
 
 
 ### MIXED_INS
@@ -37,7 +37,7 @@
 | GIoU_F | 0.54 | 0.63 | 0.47 | [point](https://drive.google.com/file/d/1MVhy5fB1yWgXrL5yi9O332YdIQcvr10g/view?usp=drive_link) |
 | DIoU_F | 0.57 | 0.66 | 0.49 | [point](https://drive.google.com/file/d/1B9FqpaTmAYIufKInPRIGTXeCFvuRS33a/view?usp=drive_link)|
 | CIoU_F | 0.57 | 0.64 | 0.49 | [point](https://drive.google.com/file/d/15us-9VW8f_axhZAnI7PUSzvB1UU5qtbf/view?usp=drive_link)|
-| DAIoU_F | 0.82 | 0.84 | 0.66 | [point](https://drive.google.com/file/d/1ZRHormDeINb2uecLb3ftmYl-rvkgg3hq/view?usp=drive_link)|
+| DAIoU_F | 0.61 | 0.73 | 0.50 | [point](https://drive.google.com/file/d/1L0s1PGrcxR2iVNcwstBYsHCg2XJqgwLQ/view?usp=drive_link)|
 
 ## Test Model
 
