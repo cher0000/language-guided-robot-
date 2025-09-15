@@ -1,4 +1,5 @@
 # language-guided-robot
+The code related to the method will be completely open source after the paper is accepted. The currently open data and checkpoints can be directly deployed through the sample code in the application model.
 
 ## DATASET
 ### SIMPLE_INS
@@ -38,7 +39,7 @@
 | GIoU_F | 0.52 | 0.64 | 0.44 | [point](https://drive.google.com/file/d/1CYSF_bChrjBailf-dMm9JtT5GgeDjAY6/view?usp=drive_link) |
 | DIoU_F | 0.56 | 0.66 | 0.48 | [point](https://drive.google.com/file/d/1DvrttAmmZFLAT0EuIpiKoD62_RQynD4O/view?usp=drive_link)|
 | CIoU_F | 0.55 | 0.65 | 0.48 | [point](https://drive.google.com/file/d/1S1k2LttJ5ZAHZ6RmD2NPRF952MMJhawy/view?usp=drive_link)|
-| DAIoU_F | 0.73 | 0.83 | 0.65 | [point](https://drive.google.com/file/d/1iEflymBfpLwnlPoVU0uYJYg2ztk3Km8Y/view?usp=drive_link)|
+| DAIoU_F | 0.73 | 0.83 | 0.65 | [point](https://drive.google.com/file/d/1ZRHormDeINb2uecLb3ftmYl-rvkgg3hq/view?usp=sharing)|
 
 ### MIXED_INS_S
 | Method   | Overall |One_step |Two_step | Link  |
