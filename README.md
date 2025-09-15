@@ -10,6 +10,16 @@
 ### MIXED_INS_S
 [https://drive.google.com/file/d/1qGavexpMvB0JVZSkTzL2OXYEdLtJ166t/view?usp=drive_link](https://drive.google.com/file/d/1qGavexpMvB0JVZSkTzL2OXYEdLtJ166t/view?usp=drive_link)
 
+`<path_to_dataset>` for dataset directory. Note that after unzipping the download, this directory should have the following files
+        
+        <path_to_dataset>
+		└── instructions-*.json
+		└── scenes-*.json
+		└── train
+		└── test
+		└── val
+		└── vocab.json
+
 ## Main Result
 ### SIMPLE_INS
 | Method   | Overall |One_step |Two_step | Link  |
@@ -24,16 +34,16 @@
 ### MIXED_INS
 | Method   | Overall |One_step |Two_step | Link  |
 |---------|-----------|-----------|-----------|-------|
-| IoU_F | 0.59 | 0.65 | 0.53 | [point](https://drive.google.com/file/d/1u1oB8AlGVT4d4k52Pomomk-XyJ0JGh84/view?usp=drive_link)|
-| GIoU_F | 0.54 | 0.64 | 0.44 | [point](https://drive.google.com/file/d/1CYSF_bChrjBailf-dMm9JtT5GgeDjAY6/view?usp=drive_link) |
-| DIoU_F | 0.54 | 0.67 | 0.43 | [point](https://drive.google.com/file/d/1DvrttAmmZFLAT0EuIpiKoD62_RQynD4O/view?usp=drive_link)|
-| CIoU_F | 0.51 | 0.61 | 0.41 | [point](https://drive.google.com/file/d/1S1k2LttJ5ZAHZ6RmD2NPRF952MMJhawy/view?usp=drive_link)|
-| DAIoU_F | 0.60 | 0.70 | 0.52 | [point](https://drive.google.com/file/d/1iEflymBfpLwnlPoVU0uYJYg2ztk3Km8Y/view?usp=drive_link)|
+| IoU_F | 0.60 | 0.68 | 0.53 | [point](https://drive.google.com/file/d/1u1oB8AlGVT4d4k52Pomomk-XyJ0JGh84/view?usp=drive_link)|
+| GIoU_F | 0.52 | 0.64 | 0.44 | [point](https://drive.google.com/file/d/1CYSF_bChrjBailf-dMm9JtT5GgeDjAY6/view?usp=drive_link) |
+| DIoU_F | 0.56 | 0.66 | 0.48 | [point](https://drive.google.com/file/d/1DvrttAmmZFLAT0EuIpiKoD62_RQynD4O/view?usp=drive_link)|
+| CIoU_F | 0.55 | 0.65 | 0.48 | [point](https://drive.google.com/file/d/1S1k2LttJ5ZAHZ6RmD2NPRF952MMJhawy/view?usp=drive_link)|
+| DAIoU_F | 0.73 | 0.83 | 0.65 | [point](https://drive.google.com/file/d/1iEflymBfpLwnlPoVU0uYJYg2ztk3Km8Y/view?usp=drive_link)|
 
 ### MIXED_INS_S
 | Method   | Overall |One_step |Two_step | Link  |
 |---------|-----------|-----------|-----------|-------|
-| IoU_F | 0.6 | 0.68 | 0.52 | [point](https://drive.google.com/file/d/1R_8T48PfIFT9IXj0YzY64lRwRDX5T_wI/view?usp=drive_link)|
+| IoU_F | 0.59 | 0.68 | 0.52 | [point](https://drive.google.com/file/d/1R_8T48PfIFT9IXj0YzY64lRwRDX5T_wI/view?usp=drive_link)|
 | GIoU_F | 0.54 | 0.63 | 0.47 | [point](https://drive.google.com/file/d/1MVhy5fB1yWgXrL5yi9O332YdIQcvr10g/view?usp=drive_link) |
 | DIoU_F | 0.57 | 0.66 | 0.49 | [point](https://drive.google.com/file/d/1B9FqpaTmAYIufKInPRIGTXeCFvuRS33a/view?usp=drive_link)|
 | CIoU_F | 0.57 | 0.64 | 0.49 | [point](https://drive.google.com/file/d/15us-9VW8f_axhZAnI7PUSzvB1UU5qtbf/view?usp=drive_link)|
